@@ -48,4 +48,4 @@ Drop you PAN card here and you're good to go!
 
 # Note
 
-Do **NOT** fill IEC code if you haven't issued any. Normally you should be leaving the option as is.
+Do **NOT** fill IEC code if you haven't issued any. Normally you should be leaving the option as is. [[Forum link]](https://community.payoneer.com/en/discussion/75186/i-dont-have-any-import-export-code-iec-will-i-be-able-to-use-payoneer-to-the-fullest)
