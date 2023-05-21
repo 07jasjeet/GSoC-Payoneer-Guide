@@ -45,3 +45,7 @@ Click on submit and then you will be taken to the following page:
 
 
 Drop you PAN card here and you're good to go!
+
+# Note
+
+Do **NOT** fill IEC code if you haven't issued it. Normally you should be leaving it as is.
