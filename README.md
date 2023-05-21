@@ -21,7 +21,7 @@ You have to complete both of these tasks in order to continue.
 1) **Update security settings**: Pretty straight forward.
 2) **Update profile settings**: For Indians, select the following purpose code: **P0802 - Software consultancy/implementation**
 
-After you've completed the above tasks, hit Lets go on the same page (screenshot above).
+After you've completed the above tasks, hit the "LETS'S GO!" button on the same page (screenshot above).
 
 # Step 2: Verification center
 
@@ -48,4 +48,4 @@ Drop you PAN card here and you're good to go!
 
 # Note
 
-Do **NOT** fill IEC code if you haven't issued it. Normally you should be leaving it as is.
+Do **NOT** fill IEC code if you haven't issued any. Normally you should be leaving the option as is.
